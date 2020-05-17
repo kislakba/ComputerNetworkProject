@@ -1,6 +1,6 @@
 # Welcome to Multi-User Painting App Guide!
 
-This app coded with **Java**. We used **OOP**, **TCP ** for communication and **Java Swing** for visual graphics. 
+This app coded with **Java**. We used **OOP**, **TCP** for communication and **Java Swing** for visual graphics. 
 
 
 ## How to Run
